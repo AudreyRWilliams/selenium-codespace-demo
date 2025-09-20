@@ -12,4 +12,4 @@ The Python code has been successfully run through a simply Selenium test to open
 1. Open this repo in a GitHub Codespace (Code → Codespaces → Create codespace).
 2. Wait for the container to build (the devcontainer will install Chromium and pip packages).
 3. In the Codespace terminal run:
-pytest -q
+pytest -s
